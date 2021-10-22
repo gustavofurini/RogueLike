@@ -81,6 +81,8 @@ public class Main {
                 "porém há varios princípes das trevas de guardas no portão.", 4,monstro4);
         Fases fase5 = new Fases("SALA DO REINO","Enfim conseguiu passar todos os obstáculos, e agora está cara a cara com o rei gigante" +
                 "hora de cumprir sua missão.", 5, monstro5);
+        
+        System.out.println("oi")
 
 
     }
